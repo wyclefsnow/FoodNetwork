@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 28 Apr 2020 22:27:16 at https://www.theme.whiteorangesoftware.com/Metros/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.theme.whiteorangesoftware.com/Metros/index.html -O1 "C:\My Web Sites\Foodnetwork" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:27:18	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/robots.txt (from primary/primary)
+22:27:36	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/img/apple-touch-icon.png (from https://www.theme.whiteorangesoftware.com/Metros/index.html)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.eot?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.woff?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.ttf?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.svg?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.eot (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.eot? (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.woff (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.ttf (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.svg (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:57	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/img/apple-touch-icon.png (from https://www.theme.whiteorangesoftware.com/Metros/index.html)
+22:27:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/popper.js (from https://www.theme.whiteorangesoftware.com/Metros/js/bootstrap.min.js)
+22:27:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.eot?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:58	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.woff?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:59	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.ttf?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:27:59	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.svg?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Warning: 	Retry after error 500 () at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.eot (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Warning: 	Retry after error 500 () at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.eot? (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Warning: 	Retry after error 500 () at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.woff (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.ttf (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Warning: 	Retry after error 500 () at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.svg (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/img/apple-touch-icon.png (from https://www.theme.whiteorangesoftware.com/Metros/index.html)
+22:28:00	Warning: 	Retry after error 500 () at link https://www.theme.whiteorangesoftware.com/Metros/popper.js (from https://www.theme.whiteorangesoftware.com/Metros/js/bootstrap.min.js)
+22:28:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.eot?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:00	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.woff?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.ttf?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/ui-icons.svg?11593179 (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.eot (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.eot? (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.woff (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.ttf (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/fonts/orion-font.svg (from https://www.theme.whiteorangesoftware.com/Metros/css/font-icons.css)
+22:28:01	Error: 	"" (500) after 2 retries at link https://www.theme.whiteorangesoftware.com/Metros/popper.js (from https://www.theme.whiteorangesoftware.com/Metros/js/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 135 links scanned, 101 files written (14936561 bytes overall) [14784678 bytes received at 328548 bytes/sec], 301875 bytes transferred using HTTP compression in 12 files, ratio 26%, 4.0 requests per connection
+(12 errors, 22 warnings, 0 messages)
